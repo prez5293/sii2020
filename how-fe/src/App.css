@@ -16,7 +16,8 @@
 }
 
 .App-dialog {
-  top: 5%
+  top: 5%;
+  text-align: left;
 }
 
 @media (prefers-reduced-motion: no-preference) {
