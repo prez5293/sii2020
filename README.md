@@ -42,9 +42,11 @@ dove `[path-to-hbase]` e `[path-to-zookeper]` sono i path alle cartelle create i
 ./hbase shell
 ```
 
+Per maggiori dettagli sui comandi che si possono eseguire dalla shell di HBase visitare il seguente [link](https://learnhbase.net/2013/03/02/hbase-shell-commands/).
 
-* Per far partire il server HBase andare sotto la cartella `hbase-2.2.4/bin` ed che espone le API Rest eseguire il comando:
+* Per far partire il server HBase che espone le REST API andare sotto la cartella `hbase-2.2.4/bin` ed eseguire il comando:
 
 ```
 ./hbase rest start
 ```
+Per maggiori dettagli sulle REST API esposte dal server di HBase visitare il seguente [link](https://docs.cloudera.com/documentation/enterprise/6/6.3/topics/admin_hbase_rest_api.html#concept_jmt_sk5_jv)
