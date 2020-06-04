@@ -44,6 +44,7 @@ dove `[path-to-hbase]` e `[path-to-zookeper]` sono i path alle cartelle create i
 
 Per maggiori dettagli sui comandi che si possono eseguire dalla shell di HBase visitare il seguente [link](https://learnhbase.net/2013/03/02/hbase-shell-commands/).
 
+
 * Per far partire il server HBase che espone le REST API andare sotto la cartella `hbase-2.2.4/bin` ed eseguire il comando:
 
 ```
