@@ -103,7 +103,7 @@ yarn
 per far partire il frontend:
 
 ```
-yarn install
+yarn start
 ```
 
 l'applicazione sarà disponibile all'url: http://localhost:3000
